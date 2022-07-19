@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello! I'm Ignacio Nazar!</h1>
 
 <h2 align="center"><b>Full Stack Developer </b>😁</h2>
