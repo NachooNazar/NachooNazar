@@ -1,14 +1,13 @@
 <h1 align="center">Hello! I'm Ignacio Nazar!</h1>
 
-<h2 align="center"><b>Full Stack Developer </b>😁</h2>
+<h2 align="center">**Full Stack Developer**😁</h2>
 
-<h4 >I live in Argentina, I am 20 years old, and I am a proactive person, disciplined and perseverance. I like to work in a team, and learn new things that make me improve as a person and as a programmer.</h4>
-<h4>I've always been attracted to the world of programming, I started with VB.net, then with C++ in college, and now I'm learning JavaScript and TypeScript with front-end and back-end technologies. I love to learn new things, I am a person who cannot be still and likes to know how things work from behind.</h4>
+<h4>I am 20 years old, and I am a proactive person, disciplined and perseverance. I like to work in a team, and learn new things that make me improve as a person and as a programmer. I am a person who cannot be still and likes to know how things work from behind</h4>
 <h4>I'm studying computer engineering and I graduated from the Soy Henry Bootcamp as a Full Stack Developer 🧑‍🎓, in which I spent more than +700 theoretical-practical hours.</h4>
 
 - I work with agile metologies like SCRUM.
 
-- I have <b>english C1</b> 🎖️ calificate by EFSET, and native spanish.
+- I have **english C1** 🎖️ calificate by EFSET, and native spanish.
 
 - Technologies I'm learning: TypeScript, Styled Components and MongoDB.
 
