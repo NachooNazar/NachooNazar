@@ -45,6 +45,12 @@
 <a href="https://devdocs.io/css/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
 </a>
+<a href="https://www.arquitecturajava.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+</a>
+<a href="https://spring.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+</a>
 
 <h3 align="left">Contact me by:</h3>
 <p align="center">
