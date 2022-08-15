@@ -9,9 +9,8 @@
 
 - I have **english C1** 🎖️ calificate by EFSET, and native spanish.
 
-- Technologies I'm learning: TypeScript, Styled Components and MongoDB.
-
 - I'm interested mainly in Back-End but i can do both.
+
 <h3 align="left">Technologies i know/use:</h3>
 <p align="left">
 
