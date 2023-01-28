@@ -1,17 +1,14 @@
-<h1 align="center">Hello! I'm Ignacio Nazar!</h1>
+<h1 align="center">Hola! Soy Ignacio Nazar!</h1>
 
-**<h2 align="center">Back End Developer😁</h2>**
+**<h2 align="center">Desarrollador Back End😁</h2>**
 
-<h4>I am 20 years old, and I am a proactive person, disciplined and perseverance. I like to work in a team, and learn new things that make me improve as a person and as a programmer. I am a person who cannot be still and likes to know how things work from behind</h4>
-<h4>I'm studying computer engineering and I graduated from the Soy Henry Bootcamp as a Full Stack Developer 🧑‍🎓, in which I spent more than +700 theoretical-practical hours.</h4>
+<h4>Tengo 20 años, soy una persona proactiva, disciplinada y perseverante. Me gusta trabajar en equipo, conocer nuevas personas y culturas, tambien aprender cosas nuevas que me hagan mejorar en cualquier ambito.</h4>
 
-- I work with agile metologies like SCRUM.
+<h4>**Estudios:** Realice primer año de Ingenieria Informatica, luego realice soyHenry y actualmente me encuentro estudiando Licenciatura en Sistemas de la Informacion</h4>
 
-- I have **english C1** 🎖️ calificate by EFSET, and native spanish.
+- Soy **C1** 🎖️ en ingles calificado por EFSET, y español nativo.
 
-- I'm interested mainly in Back-End but i can do both.
-
-<h3 align="left">Technologies i know/use:</h3>
+<h3 align="left">Tecnologias:</h3>
 <p align="left">
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -51,11 +48,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 </a>
 
-<h3 align="left">Contact me by:</h3>
+<h3 align="left">Contactame!</h3>
 <p align="center">
 <h4>LinkedIn:</h4>
 <a href="https://www.linkedin.com/in/ignacio-nazar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ignacio Nazar" height="30" width="40" /></a>
 
 </p>
 
-<h4>Cellphone:<b> +543434720830 </b></h4>
+<h4>Telefono Celular:<b> +543434720830 </b></h4>
