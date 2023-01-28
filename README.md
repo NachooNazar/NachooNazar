@@ -4,7 +4,7 @@
 
 <h4>Tengo 20 años, soy una persona proactiva, disciplinada y perseverante. Me gusta trabajar en equipo, conocer nuevas personas y culturas, tambien aprender cosas nuevas que me hagan mejorar en cualquier ambito.</h4>
 
-<h4>**Estudios:** Realice primer año de Ingenieria Informatica, luego realice soyHenry y actualmente me encuentro estudiando Licenciatura en Sistemas de la Informacion</h4>
+**Estudios:** Realice primer año de Ingenieria Informatica, luego realice soyHenry y actualmente me encuentro estudiando Licenciatura en Sistemas de la Informacion
 
 - Soy **C1** 🎖️ en ingles calificado por EFSET, y español nativo.
 
