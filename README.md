@@ -1,7 +1,3 @@
-Con la información de tu CV, tengo una buena idea de cómo estructurar tu README para GitHub. Aquí tienes un borrador inicial: 
-
----
-
 # 💻 Ignacio Nazar | Backend Developer y Data Scientist en Formación
 
 ¡Hola! Soy Ignacio Nazar, desarrollador backend con experiencia en sistemas robustos y optimización de procesos. Estudio Data Science y me apasiona construir soluciones eficientes y escalables.
@@ -31,6 +27,3 @@ Con la información de tu CV, tengo una buena idea de cómo estructurar tu READM
 - **✉️ inazar.dev@gmail.com**
 - **🌐 [LinkedIn](https://www.linkedin.com/in/ignacio-nazar/)**
 
----
-
-¿Te gustaría ajustar algo o añadir más detalles personales o profesionales? 😊
